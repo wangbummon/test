@@ -5,8 +5,6 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 
 ## Quick Start
 
-请求修改
-
 ### Create a new post
 
 ``` bash
